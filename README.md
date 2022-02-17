@@ -4,25 +4,25 @@ AIM:
 
 To write a python program to read content from a csv file.
 
-##ALGORITHM:
+## ALGORITHM:
 
-###Step 1:
+### Step 1:
 
 Start python
 
-###Step 2:
+### Step 2:
 
 Import the required csv file.
 
-###Step 3:
+### Step 3:
 
 Import pandas
 
-###Step 4:
+### Step 4:
 
 Read the csv file by using df.read.
 
-###Step 5:
+### Step 5:
 
 Display the Columns.
 
