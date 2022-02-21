@@ -1,6 +1,6 @@
 # Read-from-CSV
 
-AIM:
+## AIM:
 
 To write a python program to read content from a csv file.
 
@@ -26,17 +26,17 @@ Read the csv file by using df.read.
 
 Display the Columns.
 
-###Step 6:
+### Step 6:
 
 Display the Rows.
 
-###Step 7:
+### Step 7:
 
 End the program
 ## PROGRAM:
 ~~~
-##Developed by: Koduru Sanath Kumar Reddy     
-##REGISTER NUMBER: 212221240024
+##Developed by: K. Sai Eswar    
+##REGISTER NUMBER: 212221240020
 import pandas as pd
 df = pd.read_csv('nba.csv')
 print(df.head(10))
