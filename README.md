@@ -47,5 +47,6 @@ print("Row",len(df.axes[1]))
 
 ## OUTPUT:
 <img width="776" alt="Screenshot 2022-02-22 at 2 47 17 PM" src="https://user-images.githubusercontent.com/93427011/155100973-89415e03-5fcb-4b54-93ca-c38059edf772.png">
+
 ## RESULT:
 Therefore the above python code is successfully executed to read the content from a csv file.
